@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+sktime
+statsmodels
+pmdarima
+scikit-learn
